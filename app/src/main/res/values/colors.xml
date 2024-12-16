@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="buttonnbg">#453a49</color>
+    <color name="buttonripple">#5D4E62</color>
+    <color name="operatorripple">#B47D51</color>
+    <color name="actionripple">#995A6A</color>
+</resources>

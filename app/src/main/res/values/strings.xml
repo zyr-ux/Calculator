@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="div">/</string>
+    <string name="ac">AC</string>
+    <string name="expo">^</string>
+    <string name="percentage">%</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="_2">2</string>
+</resources>
